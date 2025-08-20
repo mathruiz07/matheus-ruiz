@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(54, 17, 63);
+    background-color: rgb(151, 87, 3);
     color: white;
     font-family: "Edu NSW ACT Cursive", cursive;
     margin: 0px;
@@ -14,14 +14,14 @@ p{
 }
 
 header {
-    border-bottom: solid 2px rgb(154, 44, 194);
+    border-bottom: solid 2px  rgb(151, 87, 3);
     padding: 20px;
     font-size: 32px;
-    color: rgb(154, 44, 194);
+    color: rgb(54, 121, 148);
 }
 
 .chamada {
-    background: rgb(226, 149, 245);
+    background: rgb(54, 121, 148);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
